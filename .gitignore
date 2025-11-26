@@ -19,6 +19,11 @@ target/
 *.iml
 *.ipr
 
+##DB
+LOCAL_DATA/
+*.mv.db
+*.trace.db
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
