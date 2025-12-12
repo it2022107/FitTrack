@@ -1,4 +1,4 @@
 package gr.hua.dit.Fit_Track.web.rest;
 
-public class ResistrationController {
+public class LoginController {
 }

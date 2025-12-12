@@ -1,0 +1,4 @@
+package gr.hua.dit.Fit_Track.core.service.mapper;
+
+public class TrainerMapper {
+}
